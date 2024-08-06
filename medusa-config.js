@@ -41,7 +41,7 @@ const plugins = [
   {
     resolve: 'medusa-payment-stripe',
     options: {
-      api_keys: STIPE_API_KEY
+      api_key: STIPE_API_KEY
     }
   },
   {
